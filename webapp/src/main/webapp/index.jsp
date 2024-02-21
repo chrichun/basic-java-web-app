@@ -3,8 +3,8 @@
 <h2>Interesting things to do for today</h2>
 
  <ul>
-  <li>Learn JavaScript</li>
-  <li>Learn Python</li>
-  <li>Learn Java</li>
+  <li> Keysight today </li>
+  <li> Keysight tomorrow</li>
+  <li> Keysight forever</li>
 </ul> 
 
